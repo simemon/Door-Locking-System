@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_id": "androidgcm-1287",
+    "project_number": "150680337672",
+    "name": "AndroidGCM"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150680337672:android:4edc1101c53be63d",
+        "client_id": "android:com.lenovo.siraj.androidgcm",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.lenovo.siraj.androidgcm",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
