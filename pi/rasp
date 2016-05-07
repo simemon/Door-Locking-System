@@ -1,0 +1,7 @@
+row pin - odd number of GPIO  pins
+column pin - even number of GPIO pins
+
+wget http://sourceforge.net/projects/xampp/files/XAMPP%20Linux/1.8.3/xampp-linux-x64-1.8.3-2-installer.run/download
+
+sudo chmod +x xampp-linux-x64-1.8.3-2-installer.run
+sudo ./xampp-linux-x64-1.8.3-2-installer.run
